@@ -9,7 +9,7 @@ The answer requires a multidisciplinary approach, I develop mathematical modelli
 Openess and transparency in research are very important, the code to reproduce my research is here! If you are interested about the paper [Percolation on the gene regulatory network](https://iopscience.iop.org/article/10.1088/1742-5468/aba7b0), have a look at [the repository](https://github.com/g-torr/percolation-grn)  
 
 I had some fun coding as well! :gift: Have you ever wondered how to recycle gifts you don't like to your friends without being caught? Well, [here](https://github.com/g-torr/recycle_gift) there is an implementation using genetic algorithms.
-## :computer: What languages you expect to find here
+## :computer: What languages can you expect to find here
 I code mainly in Python,  but here you can find also code in Matlab and  CUDA C.
 ## 📫 How to know more about my research or to reach me
 Here is  [the link to my Google Scholar account](https://scholar.google.com/citations?hl=en&user=ZI00mzcAAAAJ) and get updated with latest news from the [Disordered Systems Group website](https://dissyskcl.github.io/).
