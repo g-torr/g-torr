@@ -4,7 +4,7 @@
 I am interested in modelling of gene regulatory networks,:thinking: I ask questions like "What are the key features that makes gene regulation so precise and effective:question::question:"
 
 
-The answer requires a multidisciplinary approach, I develop mathematical modelling to try to answer:grey_exclamation: My field of research includes network theory and Boolean network dynamics.
+The answer requires a multidisciplinary approach, I develop mathematical modelling to try to answer:grey_exclamation: My research interests include network theory, statistical mechanics,  and Boolean network dynamics.
 ## What you can find here
 Openess and transparency in research are very important, the code to reproduce my research is here! 
 
