@@ -12,6 +12,7 @@ Openess and transparency in research are very important, the code to reproduce m
 | --| --- |
 | [Percolation on the gene regulatory network](https://iopscience.iop.org/article/10.1088/1742-5468/aba7b0)  | [repository](https://github.com/g-torr/percolation-grn)  |
 | [Overcoming the complexity barrier of the dynamic message-passing method in networks with fat-tailed degree distributions](https://doi.org/10.1103/PhysRevE.104.045313)  | [repository](https://github.com/g-torr/dynamic_unlocking)  |
+|[Uncovering the non-equilibrium stationary properties in sparse Boolean networks](https://arxiv.org/abs/2202.06705)|[repository](https://github.com/g-torr/uncovering-non-eq)|
 
 I had some fun coding as well! :gift: Have you ever wondered how to recycle gifts you don't like to your friends without being caught? Well, [here](https://github.com/g-torr/recycle_gift) there is an implementation using genetic algorithms.
 ## :computer: What languages can you expect to find here
