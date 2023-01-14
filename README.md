@@ -1,11 +1,11 @@
 # Welcome to my Github page :dizzy: 
-### Hi there 👋, I am Giuseppe Torrisi, I am a Reseach Fellow  :bar_chart: :pencil2::notebook: at the University of Edinburgh :uk:
+### Hi there 👋, I am Giuseppe Torrisi, I am a Reseach Fellow  at the University of Edinburgh :uk:
 I have completed my PhD in Applied Mathematics at King's College London.
 ## :mag: What my research is about
-I am interested in modelling of gene regulatory networks,:thinking: I ask questions like "What are the key features that makes gene regulation so precise and effective:question::question:"
+I am interested in modelling of gene regulatory networks,I ask questions like "What are the key features that makes gene regulation so precise and effective?"
 
 
-The answer requires a multidisciplinary approach, I develop mathematical modelling to try to answer:grey_exclamation: My research interests include network theory, statistical mechanics,  and Boolean network dynamics.
+This investigation requires a multidisciplinary approach and I develop mathematical modelling.  My research interests include network theory and statistical mechanics.
 ## What you can find here
 Openess and transparency in research are very important, the code to reproduce my research is here! 
 
