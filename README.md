@@ -20,7 +20,7 @@ I had some fun coding as well! :gift: Have you ever wondered how to recycle gift
 I code mainly in Python,  but here you can find also code in Matlab and  CUDA C.
 ## 📫 How to know more about my research or to reach me
 Here is  [the link to my Google Scholar account](https://scholar.google.com/citations?hl=en&user=ZI00mzcAAAAJ) and get updated with latest news from the [Disordered Systems Group website](https://dissyskcl.github.io/).
- :dancers: I’m looking to collaborate on the integration of models with data.:raising_hand: If you have any comments, ideas, or just want to approach me,  please get in touch with me via email :email: giuseppe.torrisi@kcl.ac.uk
+ :dancers: I’m looking to collaborate on the integration of models with data.:raising_hand: If you have any comments, ideas, or just want to approach me,  please get in touch with me via email :email: gtorrisi@ed.ac.uk
  
 <!--
 **g-torr/g-torr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
